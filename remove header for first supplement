@@ -1,0 +1,10 @@
+
+.nav-supp ~ .nav-supp h2 {
+    display: inline;
+}
+.nav-supp h2 {
+    display: none;
+}
+.top-level {
+    margin-bottom: 0;
+}
